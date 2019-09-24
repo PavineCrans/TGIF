@@ -1,0 +1,17 @@
+body {
+    margin-left: 5%;
+    margin-right: 5%; 
+}
+
+/*logo*/
+.logo {
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+#email {
+    height: 50px;
+    width: 50px;
+}
+
